@@ -1,5 +1,7 @@
 .App-logo {
-    height: 150px;
-    pointer-events: none;
+    height: 100px;
+    display: block;
+    margin-top: .2rem;
+    margin-left: 1rem;
+    margin-right: auto;
   }
-  
