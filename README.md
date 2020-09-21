@@ -1,6 +1,6 @@
 ![GitFy](https://i.imgur.com/mWYeeLs.png)
 
-This project is setted to fetch from GitHub API. After submitting one's username, the app will catch some profile informating and list all user's repositories.
+This project is setted to fetch from GitHub API. After submitting one's username, the app will catch profile information and list all user's repositories.
 
 This project was bootstrapped with create-react-app
 
